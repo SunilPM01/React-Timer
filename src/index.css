@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background:black;
+  color: white;
+  text-align: center;
+  margin-top: 271px;
+  font-family:'digital-clock-font'
+
+}
+@font-face{
+  font-family:'digital-clock-font';
+  src: url('../src/digital-7/digital-7 (mono italic).ttf');
+ }
